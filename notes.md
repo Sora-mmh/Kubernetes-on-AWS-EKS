@@ -233,5 +233,3 @@ Before deleting cluster:
   - Ensure kubeconfig + AWS authenticator available in Jenkins.
   - Manage registry secrets for private image pulls.
   - Automate env value injection in K8s manifests.
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/77819509/065b5874-7558-41f0-a526-3471d79356cd/paste.txt
