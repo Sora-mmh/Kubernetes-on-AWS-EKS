@@ -1,3 +1,3 @@
 [submodule "jenkins-pipe-with-eks"]
 	path = jenkins-pipe-with-eks
-	url = https://github.com/Sora-mmh/Complete-CI-CD-Pipeline-using-EKS.git
+	url = https://github.com/Sora-mmh/jenkins-pipe-with-eks.git
